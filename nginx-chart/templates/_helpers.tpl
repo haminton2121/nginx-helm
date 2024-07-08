@@ -1,3 +1,3 @@
-{{- define "common.labels" }}
+{{- define "common.labels" -}}
 app: nginx
-{{- end }}
+{{- end -}}
